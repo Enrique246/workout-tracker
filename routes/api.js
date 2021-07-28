@@ -12,7 +12,8 @@ router.post("/workouts", (req, res)=> {
     });
 })
 // Get data for range page
-router.get("/range", (req, res) => {
+router.get("/workouts/range", (req, res) => {
+    console.log("workoutsrange")
     db.Workout.find()
         .then((dbWorkout) => {
             res.json(dbWorkout);
