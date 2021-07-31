@@ -2,8 +2,9 @@
 
 ### Description
 - What was your motivation?
-  - Learning to build an app with a MongoDB, routing and model.
-  
+  - Learning to build an app with a MongoDB, routing and model. 
+  - Learning Mongoose.
+
 - Why did you build this project?  
   - To become a fully skilled full-stack web developer, that is able to use NoSQL DB's like MongoDB and able to build models that will connect to it as well as routes that will show the information it stores.
 
@@ -21,19 +22,20 @@
   - How NoSQL apps work
   - Routing functionality with MongoDB
   - MongoDB connecting to server and back-end
+  - Mongoose model building
 
 ### Lenguages Required:
 - Node.js
 - JavaScript
 - HTML
 - MongoDB
-- 
+- Mongoose
 - CSS
 
 ## Usage
 `npm run seed`
 `npm start`
-[Heroku Deploy Link](https://secret-stream-00472.herokuapp.com/)
+[Heroku Deploy Link](https://glacial-waters-81744.herokuapp.com/)
 
 ## Resources
 - https://docs.mongodb.com/manual/reference/operator/aggregation/addFields/
@@ -51,3 +53,4 @@
 - Buttons work
 - Navbar directs you correctly
 - All data appears as it should
+- Deploy done successfully
