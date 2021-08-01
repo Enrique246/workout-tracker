@@ -24,7 +24,7 @@
   - MongoDB connecting to server and back-end
   - Mongoose model building
 
-### Lenguages Required:
+### Languages Required:
 - Node.js
 - JavaScript
 - HTML
